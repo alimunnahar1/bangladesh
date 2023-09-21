@@ -1,0 +1,10 @@
+li{
+    float: left;
+    background-color: burlywood;
+    
+    padding: 15px 15px;
+    border: 1px solid black;
+}
+img{
+    width: 100%;
+}
